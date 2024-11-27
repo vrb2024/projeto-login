@@ -46,7 +46,7 @@ section#login > div#imagem {
     display: block;
     background: url(../imagens/blue\ pattern.jpg);
     background-size: cover;
-    background-position: left;
+    background-position: left center;
     height: 200px;
 }
 section#login > div#formulario {
